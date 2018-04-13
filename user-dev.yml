@@ -18,5 +18,8 @@ logging:
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
     com.shopping: DEBUG
+    
+    
+    123
 
 
