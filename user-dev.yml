@@ -9,8 +9,6 @@ spring:
     url: jdbc:mysql://localhost:3306/shopping_ec_user?createDatabaseIfNotExist\=true&amp;useUnicode\=true&amp;characterEncoding\=utf-8
     username: root
     password: root
-  application:
-    name: shopping-provider-user
 logging:
   level:
     root: INFO
